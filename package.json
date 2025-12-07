@@ -1,0 +1,18 @@
+{
+  "name": "adventofcode2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node",
+    "day1": "ts-node day01.ts",
+    "day2": "ts-node day02.ts"
+  },
+  "author": "Alex L. Deweert",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
