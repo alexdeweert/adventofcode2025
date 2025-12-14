@@ -7,7 +7,8 @@
     "dev": "ts-node",
     "day1": "ts-node day01.ts",
     "day2": "ts-node day02.ts",
-    "day3": "ts-node day03.ts"
+    "day3": "ts-node day03.ts",
+    "day4": "ts-node day04.ts"
   },
   "author": "Alex L. Deweert",
   "license": "ISC",
